@@ -1,0 +1,3 @@
+# Gleiches Gate wie die CI: Typecheck, Lint und Production-Build.
+# Im Notfall ueberspringen mit `git push --no-verify` (die CI prueft trotzdem).
+npm run check
